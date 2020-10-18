@@ -10,4 +10,4 @@ sudo tar -zxvf telegraf.tar.gz
 sudo mv /opt/telegraf-* /opt/telegraf
 
 sudo mkdir /etc/telegraf
-sudo mv ~/mint-bootcamp/telegraf.conf /etc/telegraf/
+sudo mv ~/Workshop-mint/telegraf.conf /etc/telegraf/
